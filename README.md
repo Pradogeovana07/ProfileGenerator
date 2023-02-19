@@ -24,4 +24,8 @@ WHEN I select the intern option</br>
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu</br>
 WHEN I decide to finish building my team</br>
 THEN I exit the application, and the HTML is generated</br>
+
+https://github.com/Pradogeovana07/ProfileGenerator.git 
+
+
 ![PROFILEGEN1](https://user-images.githubusercontent.com/113002223/219978270-f3fce9c4-ccc7-4a96-b713-ba0a00d730d6.png)
